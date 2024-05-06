@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Playground\\tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9D32A9-EEF7-4356-962F-FF04320A775C}|Tutorial\\Tutorial.csproj|d:\\playground\\tutorial\\tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9D32A9-EEF7-4356-962F-FF04320A775C}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Playground\\tutorial\\Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Program.cs",
+              "ToolTip": "D:\\Playground\\tutorial\\Tutorial\\Program.cs",
+              "RelativeToolTip": "Tutorial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:13:13.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
